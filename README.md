@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **sumitkesar6307@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gatQWdq2ck_Vc-wroYk9cM4zVgz7E6wW/view?usp=drivesdk](https://drive.google.com/file/d/1gatQWdq2ck_Vc-wroYk9cM4zVgz7E6wW/view?usp=drivesdk)
-
 - ⚡ Fun fact **I once solved a complex coding challenge in under 10 minutes while enjoying a cup of coffee!**
 
 
