@@ -3,16 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" />
 
----
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sumit6307&theme=onedark&margin-w=10" alt="sumit6307 trophies" />
-  </a>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -47,6 +38,15 @@
   </a>
 </p>
 
+---
+
+---
+### 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumit6307&theme=onedark&margin-w=10" alt="sumit6307 trophies" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
