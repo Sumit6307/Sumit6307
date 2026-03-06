@@ -14,8 +14,7 @@
 - 👨‍💻 Explore my projects: [My Portfolio](https://sumit-portfolio-pi.vercel.app/)  
 - 📝 Read my articles on [LinkedIn](https://www.linkedin.com/in/sumit-kesarwani-35b63a286/)  
 - 💬 Ask me about **Web Development, Startups, Freelancing, or Competitive Programming.**  
-- 📫 Reach me at **sumitkesar6307@gmail.com**  
-- ⚡ Fun fact: *Solved a complex coding challenge in under 10 minutes while enjoying coffee!* ☕  
+- 📫 Reach me at **sumitkesar6307@gmail.com**    
 
 ---
 
