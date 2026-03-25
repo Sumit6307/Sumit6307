@@ -11,7 +11,7 @@
 - 🌱 Learning **Three.js**, **Advanced React.js**, and improving **problem-solving** in **competitive programming**.  
 - 👯 Looking to collaborate on **open-source projects, hackathons, web & mobile development,** and **innovative startups**.  
 - 🤝 Seeking help with **startup funding, advanced backend systems, scalable APIs**, or **open-source contributions**.  
-- 👨‍💻 Explore my projects: [My Portfolio](https://sumit-portfolio-pi.vercel.app/)  
+- 👨‍💻 Explore my projects: [My Portfolio](sumitx.me)  
 - 📝 Read my articles on [LinkedIn](https://www.linkedin.com/in/sumit-kesarwani-35b63a286/)  
 - 💬 Ask me about **Web Development, Startups, Freelancing, or Competitive Programming.**  
 - 📫 Reach me at **sumitkesar6307@gmail.com**    
